@@ -6,11 +6,10 @@ Introduction:
 In this project, I am conducting a comprehensive analysis of hotel booking and cancellation data to understand 
 the patterns, trends, and impact on the business over some time. The dataset contains valuable insights 
 into the performance of OYO Hotels, a prominent player in the hospitality industry. By delving into this data, 
-we aim to uncover key findings that will help us make informed decisions and optimize the hotel's operations.
+We aim to uncover key findings that will help us make informed decisions and optimize the hotel's operations.
 
 
 # Project Objectives:
-
 
 Identify Booking and Cancellation Trends: We will explore the historical data to identify trends in hotel bookings and cancellations over time.
 This will include analyzing monthly and weekly patterns, as well as any seasonal variations.
